@@ -1,7 +1,7 @@
 # Ancient Sparta reconstruction minecraft 📜⚔️🗿
 
 What was the city of **Ancient Sparta**? 
-!
+
 Let us explore Ancient Sparta from its earliest days to the present.
 
 This project was created as part of an educational project aimed at connecting history with creativity.
