@@ -38,23 +38,24 @@ Let us now explore the monuments of Ancient Sparta as we digitally recreated the
 - **Date**: 4th – 3rd century BCE  
 - **Historical context**: A two-story structure on the south side and single-story on the north. Served as a commercial and social hub.  
 - **Minecraft reconstruction**: Built with simple stone blocks, featuring columns, a tiled roof, two main entrances, and dirt paths on the east and west sides.
-![agora](https://github.com/user-attachments/assets/4b0ce60f-21cb-47d8-ab9a-87eaa16b09f5)
+<img width="680" height="382" alt="image" src="https://github.com/user-attachments/assets/192d3e47-a935-46cb-bc1a-a9448694d32d" />
 
 ### 2. Sanctuary of Athena Chalkioikos
 - **Date**: From the 8th century BCE (renovated in the 6th century BCE)  
 - **Historical context**: Sacred site of the city’s patron goddess, with bronze interior walls and a statue by the sculptor Gitiadas.  
 - **Minecraft reconstruction**: A grand temple with copper interior, surrounding flames, marble exterior, a ceremonial bath, flowers, trees, and a path leading to the entrance.
-![temple-athena](https://github.com/user-attachments/assets/de72b5ce-92db-40f8-89cf-b525d6674121)
+<img width="664" height="378" alt="image" src="https://github.com/user-attachments/assets/bb1abff6-9f53-4ee9-a850-13c87cf9e3ec" />
 
 ### 3. Archaic Stoa
 - **Date**: Archaic period  
 - **Historical context**: A gathering place for male citizens to discuss political and military matters. Featured rough stone walls and column bases.  
 - **Minecraft reconstruction**: Marble structure with wooden columns, tiled roof, and two lit paths connecting it to the Agora and the Sanctuary of Athena.
-![stoa](https://github.com/user-attachments/assets/acebdb09-9ba1-46d3-a60d-c12550b3012b)
+<img width="676" height="381" alt="image" src="https://github.com/user-attachments/assets/926979ed-8911-4c1f-87f8-19017352d27d" />
 
 ### 4. Ancient Theatre
 - **Date**: 5th century BCE  
 - **Historical context**: Capacity of ~17,000 spectators, with a movable wooden stage later replaced by a monumental marble one during Roman times.  
 - **Minecraft reconstruction**: Includes rails for the mobile stage, a skene building, semi-circular orchestra, and tiered seating.
-![theatre](https://github.com/user-attachments/assets/6afdca8b-dd7c-4265-88d2-469276908369)
+<img width="698" height="394" alt="image" src="https://github.com/user-attachments/assets/643d4dd1-0964-469b-aca7-b442169dc66f" />
+
 
