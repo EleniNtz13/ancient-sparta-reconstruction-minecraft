@@ -4,7 +4,7 @@ What was the city of **Ancient Sparta**?
 
 Let us explore Ancient Sparta from its earliest days to the present.
 
-This project was created as part of an educational project aimed at connecting history with creativity.
+This project was created as part of an educational assignment within the **“Cultural Informatics”** curriculum of the Department of Digital Systems in Sparta, aiming to connect *history* with *creativity*.
 
 ---
 
@@ -30,7 +30,7 @@ During the **Byzantine period**, Sparta lost its strategic importance, and resid
 In modern times, following the **Greek Revolution of Independence in 1821**, Sparta remained inhabited but diminished in influence. In *1834*, King Otto ordered the construction of a new city on the ruins of the ancient one, designed in neoclassical style with wide streets and public squares.
 
 ### 🗿 From History to Monuments ###
-Sparta’s rich historical journey — from antiquity to the modern era — stands as a symbol of military strength, discipline, and cultural identity. From the myth of **Helen of Troy* and the **heroic stand of Leonidas at Thermopylae**, to the founding of the modern city by King Otto, Sparta has preserved its legacy through the centuries.
+Sparta’s rich historical journey — from antiquity to the modern era — stands as a symbol of military strength, discipline, and cultural identity. From the myth of **Helen of Troy** and the **heroic stand of Leonidas at Thermopylae**, to the founding of the modern city by King Otto, Sparta has preserved its legacy through the centuries.
 
 In this project, we focus on the most significant monuments of the Acropolis of Ancient Sparta, as they were shaped *during the 6th to 4th centuries BCE*. Through their three-dimensional reconstruction in the world of Minecraft, we aim to capture their architecture, function, and symbolic importance within the society of the time.
 
