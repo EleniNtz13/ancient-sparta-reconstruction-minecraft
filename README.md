@@ -4,7 +4,7 @@ What was the city of **Ancient Sparta**?
 
 Let us explore Ancient Sparta from its earliest days to the present.
 
-This project was created as part of an educational assignment within the **“Cultural Informatics”** curriculum of the Department of Digital Systems in Sparta, aiming to connect *history* with *creativity*. To maintain visual consistency within the reconstruction, the Agora was positioned closer to the other three monuments (the Temple of Athena, the Stoa, and the Ancient Theatre) than in its actual historical location.
+This project was created as part of an educational assignment within the **“Cultural Informatics”** curriculum of the Department of Digital Systems in Sparta, aiming to connect *history* with *creativity*. The project was carried out with the collaboration and support of two fellow students, which enhanced its teamwork spirit and creativity. To maintain visual consistency within the reconstruction, the Agora was positioned closer to the other three monuments (the Temple of Athena, the Stoa, and the Ancient Theatre) than in its actual historical location.
 
 ---
 
