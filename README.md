@@ -1,4 +1,4 @@
-# Ancient Sparta Acropolis - reconstruction minecraft 📜⚔️🗿
+# Ancient Sparta Acropolis - Minecraft 3D Reconstruction 📜⚔️🗿
 
 What was the city of **Ancient Sparta**? 
 
