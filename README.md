@@ -13,7 +13,7 @@ This project was created as part of an educational assignment within the **“Cu
 
 The city was composed of five settlements: Kynosoura, Pitane, Limnai, Mesoa, and later Amyklai. Citizens lived in simple homes scattered across the plain surrounding the acropolis, which served as a sacred and civic center for worship, festivals, and public gatherings.
 
-### 👑 Sparta’s Leadership in the 5th Century BCE ###
+### 👑 Sparta’s Leadership in the 5th Century BC ###
 This project focuses on the *5th century BC*, a period during which **King** **Leonidas** ruled Sparta and **Queen** **Gorgo** stood by his side. Sparta was then at the height of its military and political power, playing a dominant role in the ancient Greek world.
 
 Leonidas is remembered for his heroic stand at the Battle of Thermopylae in *480 BC*, where he famously responded to the Persian demand to surrender with the phrase **“Molon labe!” (“Come and take them”)** — a timeless symbol of defiance and sacrifice. Before his departure for battle, Queen Gorgo addressed him with the phrase **“Either with your shield or on it.”** reminding him of his patriotic duty and the honor of dying for one’s homeland. This expression reflects the courage with which Spartan women — as wives and mothers — faced the possibility of losing their loved ones in war, demanding that they return either victorious or carried home with honor.
