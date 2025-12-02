@@ -50,18 +50,19 @@ Let us now explore the monuments of Ancient Sparta as we digitally recreated the
 - **Date**: *From the 8th century BCE (renovated in the 6th century BC)* (Archaic period) 
 - **Historical context**: Sacred site of the city’s patron goddess, with bronze interior walls and a statue by the sculptor Gitiadas.  
 - **Minecraft reconstruction**: A grand temple with copper interior, surrounding flames, marble exterior, a ceremonial bath, flowers, trees, and a path leading to the entrance.
+
   <img width="664" height="378" alt="image" src="https://github.com/user-attachments/assets/bb1abff6-9f53-4ee9-a850-13c87cf9e3ec" />
 
 ### 3. Archaic Stoa
 - **Date**: *8th - 479 BC* (Archaic period)  
 - **Historical context**: A gathering place for male citizens to discuss political and military matters. Featured rough stone walls and column bases.  
 - **Minecraft reconstruction**: Marble structure with wooden columns, tiled roof, and two lit paths connecting it to the Agora and the Sanctuary of Athena.
-    <img width="676" height="381" alt="image" src="https://github.com/user-attachments/assets/926979ed-8911-4c1f-87f8-19017352d27d" />
+  <img width="676" height="381" alt="image" src="https://github.com/user-attachments/assets/926979ed-8911-4c1f-87f8-19017352d27d" />
 
 ### 4. Ancient Theatre
 - **Date**: *5th century BC* (Golden Age)  
 - **Historical context**: Capacity of ~17,000 spectators, with a movable wooden stage later replaced by a monumental marble one during Roman times.  
 - **Minecraft reconstruction**: Includes rails for the mobile stage, a skene building, semi-circular orchestra, and tiered seating.
-                        <img width="698" height="394" alt="image" src="https://github.com/user-attachments/assets/643d4dd1-0964-469b-aca7-b442169dc66f" />
+  <img width="698" height="394" alt="image" src="https://github.com/user-attachments/assets/643d4dd1-0964-469b-aca7-b442169dc66f" />
 
 
