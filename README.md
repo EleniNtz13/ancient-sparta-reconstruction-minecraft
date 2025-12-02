@@ -9,14 +9,14 @@ This project was created as part of an educational assignment within the **“Cu
 ---
 
 ### 🏺 Historical Overview of Sparta ###
-**Sparta** was one of the most powerful cities of *Ancient Greece*, located along the Eurotas River in Laconia, in the southern Peloponnese. Its rise began after the Dorian invasion around *1100 BCE* and peaked following its victory in the Peloponnesian War. Sparta became globally known for its military strength, strict discipline, and austere lifestyle.
+**Sparta** was one of the most powerful cities of *Ancient Greece*, located along the Eurotas River in Laconia, in the southern Peloponnese. Its rise began after the Dorian invasion around *1100 BC* and peaked following its victory in the Peloponnesian War. Sparta became globally known for its military strength, strict discipline, and austere lifestyle.
 
 The city was composed of five settlements: Kynosoura, Pitane, Limnai, Mesoa, and later Amyklai. Citizens lived in simple homes scattered across the plain surrounding the acropolis, which served as a sacred and civic center for worship, festivals, and public gatherings.
 
 ### 👑 Sparta’s Leadership in the 5th Century BCE ###
 This project focuses on the *5th century BC*, a period during which **King** **Leonidas** ruled Sparta and **Queen** **Gorgo** stood by his side. Sparta was then at the height of its military and political power, playing a dominant role in the ancient Greek world.
 
-Leonidas is remembered for his heroic stand at the Battle of Thermopylae in *480 BCE*, where he famously responded to the Persian demand to surrender with the phrase **“Molon labe!” (“Come and take them”)** — a timeless symbol of defiance and sacrifice. Before his departure for battle, Queen Gorgo addressed him with the phrase **“Either with your shield or on it.”** reminding him of his patriotic duty and the honor of dying for one’s homeland. This expression reflects the courage with which Spartan women — as wives and mothers — faced the possibility of losing their loved ones in war, demanding that they return either victorious or carried home with honor.
+Leonidas is remembered for his heroic stand at the Battle of Thermopylae in *480 BC*, where he famously responded to the Persian demand to surrender with the phrase **“Molon labe!” (“Come and take them”)** — a timeless symbol of defiance and sacrifice. Before his departure for battle, Queen Gorgo addressed him with the phrase **“Either with your shield or on it.”** reminding him of his patriotic duty and the honor of dying for one’s homeland. This expression reflects the courage with which Spartan women — as wives and mothers — faced the possibility of losing their loved ones in war, demanding that they return either victorious or carried home with honor.
 
 Gorgo, one of the few women in antiquity known for her political insight, stood out for her intelligence and boldness. When asked why Spartan women were the only ones who “ruled” their men, she replied: **“Because we are the only women who give birth to men.”** Her words encapsulate the deep-rooted values of Spartan society — valor, honor, and the central role of women in shaping a nation of warriors.
 
