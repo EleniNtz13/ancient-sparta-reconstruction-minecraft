@@ -62,6 +62,7 @@ Let us now explore the monuments of Ancient Sparta as we digitally recreated the
 - **Date**: *5th century BC* (Golden Age)  
 - **Historical context**: Capacity of ~17,000 spectators, with a movable wooden stage later replaced by a monumental marble one during Roman times.  
 - **Minecraft reconstruction**: Includes rails for the mobile stage, a skene building, semi-circular orchestra, and tiered seating.
-                <img width="698" height="394" alt="image" src="https://github.com/user-attachments/assets/643d4dd1-0964-469b-aca7-b442169dc66f" />
+
+                                  <img width="698" height="394" alt="image" src="https://github.com/user-attachments/assets/643d4dd1-0964-469b-aca7-b442169dc66f" />
 
 
