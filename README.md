@@ -50,7 +50,7 @@ Let us now explore the monuments of Ancient Sparta as we digitally recreated the
 - **Date**: *From the 8th century BCE (renovated in the 6th century BC)* (Archaic period) 
 - **Historical context**: Sacred site of the city’s patron goddess, with bronze interior walls and a statue by the sculptor Gitiadas.  
 - **Minecraft reconstruction**: A grand temple with copper interior, surrounding flames, marble exterior, a ceremonial bath, flowers, trees, and a path leading to the entrance.
-           <img width="664" height="378" alt="image" src="https://github.com/user-attachments/assets/bb1abff6-9f53-4ee9-a850-13c87cf9e3ec" />
+<img width="664" height="378" alt="image" src="https://github.com/user-attachments/assets/bb1abff6-9f53-4ee9-a850-13c87cf9e3ec" />
 
 ### 3. Archaic Stoa
 - **Date**: *8th - 479 BC* (Archaic period)  
