@@ -25,7 +25,7 @@ Gorgo, one of the few women in antiquity known for her political insight, stood 
 ### ⌛ Sparta Through the Ages: From Antiquity to Today ##
 Remarkably, Sparta remained without defensive walls for centuries, as its warriors were considered sufficient protection. Fortifications were only built in the *3rd century BC* under King Cleomenes III and completed during the reign of King Nabis.
 
-During the **Byzantine period**, Sparta lost its strategic importance, and residents relocated to fortified areas such as Mystras. The new city was built using materials from ancient Sparta, and by the end of Emperor Justinian’s reign, the original city was largely abandoned.
+During the **Byzantine period**, Sparta lost its strategic importance, and residents relocated to fortified areas such as **Mystras**. The new city was built using materials from ancient Sparta, and by the end of Emperor Justinian’s reign, the original city was largely abandoned.
 
 In modern times, following the **Greek Revolution of Independence in 1821**, Sparta remained inhabited but diminished in influence. In *1834*, King Otto ordered the construction of a new city on the ruins of the ancient one, designed in neoclassical style with wide streets and public squares.
 
